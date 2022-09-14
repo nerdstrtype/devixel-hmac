@@ -1,6 +1,6 @@
 {
-  "name": "devixel-hmac",
-  "version": "1.0.0",
+  "name": "devixel-hmacjs",
+  "version": "1.0.1",
   "description": "simple no dependency HMAC generator",
   "main": "dist/index.js",
   "scripts": {
