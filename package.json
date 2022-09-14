@@ -7,8 +7,8 @@
     "build": "webpack",
     "dev": "tsc"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["hmac", "hmac-generator", "hash"],
+  "author": "erdeprsty",
   "license": "ISC",
   "devDependencies": {
     "terser-webpack-plugin": "^5.3.6",
