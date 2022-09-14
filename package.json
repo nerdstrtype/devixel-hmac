@@ -2,7 +2,7 @@
   "name": "devixel-hmacjs",
   "version": "1.0.1",
   "description": "simple no dependency HMAC generator",
-  "main": "dist/index.js",
+  "main": "dist/devixel-hmac.js",
   "scripts": {
     "build": "webpack",
     "dev": "tsc"
