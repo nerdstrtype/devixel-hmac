@@ -105,7 +105,4 @@ const genHMACSignature = (
 		}
 	});
 
-export default {
-	genHMACSecretKey,
-	genHMACSignature,
-};
+export default { genHMACSecretKey, genHMACSignature };

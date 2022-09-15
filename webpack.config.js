@@ -18,9 +18,7 @@ module.exports = {
 	},
 	mode: "production",
 	output: {
-		filename: production
-			? "devixel-hmac.min.js"
-			: "devixel-hmac.js",
+		filename: production ? "devixel-hmac.min.js" : "devixel-hmac.js",
 		path: path.resolve(__dirname, "dist"),
 		globalObject: "this",
 		library: "devixelHmac",
